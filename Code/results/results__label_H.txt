@@ -1,0 +1,23 @@
+Label, H
+True Positives: 215
+Number of missed calls: 604
+Number of false positives: 48
+Number of true negatives: 3216
+
+Target, H
+True Positives: 28
+Number of missed calls: 12
+Number of false positives: 17
+Number of true negatives: 3284
+
+Target, M
+True Positives: 364
+Number of missed calls: 912
+Number of false positives: 1073
+Number of true negatives: 101875
+
+Label, M
+True Positives: 447
+Number of missed calls: 46
+Number of false positives: 2542
+Number of true negatives: 105388
